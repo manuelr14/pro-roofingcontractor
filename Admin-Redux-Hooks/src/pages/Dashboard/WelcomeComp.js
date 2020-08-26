@@ -15,7 +15,7 @@ const WelcomeComp = (props) => {
                             <Col xs="7">
                                 <div className="text-primary p-3">
                                     <h5 className="text-primary">Welcome Back !</h5>
-                                    <p>Skote Dashboard</p>
+                                    <p>Pro-Roofer Dashboard</p>
                                 </div>
                             </Col>
                             <Col xs="5" className="align-self-end">
@@ -29,8 +29,8 @@ const WelcomeComp = (props) => {
                                 <div className="avatar-md profile-user-wid mb-4">
                                     <img src={avatar1} alt="" className="img-thumbnail rounded-circle" />
                                 </div>
-                                <h5 className="font-size-15 text-truncate">Henry Price</h5>
-                                <p className="text-muted mb-0 text-truncate">UI/UX Designer</p>
+                                <h5 className="font-size-15 text-truncate">Manuel Ramirez</h5>
+                                <p className="text-muted mb-0 text-truncate">Sales Manager</p>
                             </Col>
 
                             <Col sm="8">

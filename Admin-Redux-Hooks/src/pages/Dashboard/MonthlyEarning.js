@@ -27,7 +27,7 @@ import ApexRadial from "./ApexRadial";
                             </div>
                         </Col>
                     </Row>
-                    <p className="text-muted mt-4 mb-3">We craft digital, graphic and dimensional thinking.</p>
+                    <p className="text-muted mt-4 mb-3">Keep going! you can do more.</p>
                 </CardBody>
             </Card>
             </React.Fragment>
